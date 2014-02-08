@@ -1,4 +1,11 @@
 BukkitGames-Web
 ===============
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+A website template for the BukkitGames plugin.
+
+## How to use
+
+1. Download the template [here](https://github.com/ftbastler/BukkitGames-Web/archive/master.zip).
+3. Open the file `config.php` and enter your server's ip and port, as well as your SQL login information.
+4. Save this file and upload everything to your webspace.
+5. Done.

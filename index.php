@@ -10,11 +10,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="/assets/css/metro-bootstrap.min.css">
-		<link rel="stylesheet" href="/assets/css/metro-bootstrap-responsive.min.css">
-        <script src="/assets/js/jquery.min.js"></script>
-		<script src="/assets/js/jquery.widget.min.js"></script>
-        <script src="/assets/js/metro.min.js"></script>
+        <link rel="stylesheet" href="assets/css/metro-bootstrap.min.css">
+		<link rel="stylesheet" href="assets/css/metro-bootstrap-responsive.min.css">
+        <script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.widget.min.js"></script>
+        <script src="assets/js/metro.min.js"></script>
 		<style>
 			html, body {
 				height: auto !important;
